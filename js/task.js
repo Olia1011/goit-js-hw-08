@@ -47,4 +47,4 @@ range.addEventListener("click", openModal);
 closeBtn.addEventListener("click", closeModal);
 overlay.addEventListener("click", closeModal);
 document.addEventListener("keydown", closeEsc);
-closeBtn.addEventListener("keydown", closeEnter);
+
